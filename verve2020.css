@@ -1,0 +1,289 @@
+html{
+
+scroll-behavior: smooth;
+
+
+}
+body{
+margin: 0;
+
+
+}
+
+
+nav{
+  float: right;
+  margin: none;
+  padding: none;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+  }
+  nav li{
+    display: inline-block;
+    
+    padding-top: 70px;
+  }
+  .one{
+    background-color: #5CDB95;
+    width: 1800px;
+    height: 660px;
+  }
+  .landing
+  {
+    float: right;
+  
+
+  }
+  nav a{
+    padding-right: 30px;
+    margin-top: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    border: none;
+    padding-bottom: 10px;
+   }
+
+   nav a:hover{
+    border-bottom: 5px solid ;   
+    border-bottom-color: black;
+    transition: 0.5s;
+   }
+   .logo{
+      position: absolute;
+      top: 30%;
+      left: 25%;  
+      font-family: 'Pacifico', cursive;
+      font-size: 360%;
+    }
+   
+ .year{
+    position: absolute;
+      padding-right: none;
+      top: 15%;
+      left: 25%; 
+      font-size: 1560%; 
+      font-family: 'PT Sans Narrow', sans-serif;
+      font-weight: bolder;
+      color: blanchedalmond;
+    }
+.two{
+
+    background-color:#EDC7B7;
+    width: 1350px;
+    height: 460px;
+    position: absolute;
+      top: 100%;
+       
+
+
+}
+.marathon
+{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+     position: absolute;
+     right: 200px;
+     font-size: 360%;
+    }
+
+.about{
+    font-family: 'PT Sans Narrow', sans-serif;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 160%;
+    width: 700px;
+}
+.container{
+   
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  right: 5%;
+}
+.three{
+    background-color: #E8A87C;
+    width: 1350px;
+    height: 460px;
+    position: absolute;
+      top: 167%;
+
+
+
+}
+
+.aboutUs{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+     position: absolute;
+     left: 100px;
+     font-size: 360%;
+
+
+
+}
+
+.container2{
+ 
+    position: absolute;
+  top: 15%;
+  right: 5%;
+  left: 5%;
+
+
+}
+
+.four{
+  background-color: #659DBD;
+    width: 1350px;
+    height: 460px;
+    position: absolute;
+      top: 237%;
+
+}
+
+.container3{
+ 
+  position: absolute;
+top: 17%;
+left: 5%;
+
+
+
+}
+
+.events{
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: bolder;
+   position: absolute;
+   right: 200px;
+   font-size: 360%;
+
+
+
+}
+.pix{
+
+ border-radius: 20px;
+
+
+
+
+}
+.eventList{
+  font-family: 'PT Sans Narrow', sans-serif; 
+  font-weight: bolder;
+  font-size: 180%;
+
+}
+
+.five{
+  background-color: #FFE400;
+    width: 1350px;
+    height:660px;
+    position: absolute;
+      top: 308%;
+
+}
+
+.spons{
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: bolder;
+   position: absolute;
+   left: 200px;
+   font-size: 360%;
+
+
+
+}
+
+.container4{
+ 
+  position: absolute;
+top: 26%;
+left: 2%;
+
+
+}
+.six{
+  background-color: #5CDB95;
+  width: 1350px;
+  height: 460px;
+  position: absolute;
+    top: 410%;
+
+
+
+}
+.contact{
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: bolder;
+   text-align: center;
+   font-size: 360%;
+}
+
+.insta{
+  
+   position: absolute;
+   left: 42%;
+   padding: 15px;
+   width: 200px;
+   background: none;
+   border: black 3px solid;
+   font-size: 20px;
+   font-family: 'PT Sans Narrow', sans-serif;
+   font-weight: bolder;
+   text-decoration: none;
+   color: black;
+   text-align: center;
+  }
+
+  .insta:hover{
+    background-color: black;
+    transition: 0.5s;
+    color: white;
+  }
+  .twit{
+    position: absolute;
+   left: 42%;
+   top: 50%;
+   padding: 15px;
+   width: 200px;
+   background: none;
+   border: black 3px solid;
+   font-size: 20px;
+   font-family: 'PT Sans Narrow', sans-serif;
+   font-weight: bolder;
+   text-decoration: none;
+   color: black;
+   text-align: center; 
+  }
+  .twit:hover{
+    background-color: black;
+    transition: 0.5s;
+    color: white;
+  }
+  .mail{
+    position: absolute;
+   left: 42%;
+   top: 67%;
+   padding: 15px;
+   width: 200px;
+   background: none;
+   border: black 3px solid;
+   font-size: 20px;
+   font-family: 'PT Sans Narrow', sans-serif;
+   font-weight: bolder;
+   text-decoration: none;
+   color: black;
+   text-align: center; 
+  }
+  .mail:hover{
+    background-color: black;
+    transition: 0.5s;
+    color: white;
+  }
